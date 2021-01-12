@@ -24,3 +24,4 @@ Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_do
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
 be found at [https://hexdocs.pm/fizz_buzz](https://hexdocs.pm/fizz_buzz).
 # FizzBuzz-in-Elixir
+# FizzBuzz-in-Elixir
